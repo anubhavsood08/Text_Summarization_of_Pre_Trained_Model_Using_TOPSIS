@@ -1,4 +1,4 @@
-![image](https://github.com/anubhavsood08/Text_Summarization_of_Pre_Trained_Model_Using_TOPSIS/assets/97249347/c3ab6160-c6fa-4417-8299-becac16761ac)#Pretrained Model Comparison Using TOPSIS: Project Overview
+#Pretrained Model Comparison Using TOPSIS: Project Overview
 
 ##Introduction:
 Text summarization, a critical natural language processing task, involves condensing extensive documents into concise, informative summaries. This project aims to guide users in selecting the most suitable text summarization model by comparing the performance of various pretrained models.
